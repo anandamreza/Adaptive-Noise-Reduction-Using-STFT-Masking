@@ -1,7 +1,3 @@
-Here is a complete, polished **README.md** for your GitHub repository. Everything is already formatted and ready to upload.
-
----
-
 # **Adaptive Noise Reduction Using STFT Masking**
 
 This project applies noise reduction to speech audio using a **Short-Time Fourier Transform (STFT)**–based masking algorithm. The method extracts a noise sample from the first few seconds of the recording, estimates its frequency distribution, and constructs a thresholded mask to suppress noise while preserving speech content.
